@@ -1,7 +1,7 @@
 <img src="https://github.com/zeth-I/zeth-I/blob/main/devzeth.png" min-width="400px" max-width="400px" width="400px" align="right" alt="DevZeth">
 
 <p align="left"> 
-  :computer: <strong> Who am? </strong><br>
+  :computer: <strong> Who i am? </strong><br>
 A student of computer systems at UFRPE, developing and learning by showing everything in practice with the dream of becoming an example for many others like him.
 </p>
 
