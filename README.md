@@ -33,6 +33,8 @@ A student of computer systems at UFRPE, developing and learning by showing every
 
   <a href="https://www.instagram.com/dev_zeth/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  
+  [![UFRPE Devs badge](https://raw.githubusercontent.com/ufrpe-devs/comunidade/main/media/ufrpe-devs-badge.svg)](https://github.com/ufrpe-devs/comunidade)
 </p>  
 
 ## Github Activity
